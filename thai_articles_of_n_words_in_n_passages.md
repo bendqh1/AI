@@ -4,10 +4,12 @@ The article should include words in the amount of about `N WORDS`.
 
 The words of the article should be organized in the amount of about `N PASSAGES`.
 
+---
+
 ## Passage format
 
-* Number the passages in this format: `1.`.
-* There would be a line break (`<br>`) between each passage.
+* The passages should be organized in an ordered list (`<ol>`).
+* There would be a line break (`<br>`) under each passage.
 
 ## Notes
 
