@@ -20,6 +20,7 @@ REPEAT THE PATTERN AS MUCH AS NEEDED
 
 ## Notes
 
+* Give me a Markdown output (not input!).
 * Do not use any `<ul>` and `<li>` tag in the article.
 * If the article would include numbers, then the article should not include Thai numbers, but rather, English numbers only.
 * The article shouldn't be split into list items (`<li>`) inside an ordered list (`<ol>`) because I can't copy the list item numbers from the output into clipboard.
