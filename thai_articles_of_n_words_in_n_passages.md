@@ -1,16 +1,10 @@
-Create for me an article in Thai in the topic of `TOPIC`.
+Create for me an article in Thai about construction.
 
-The article should include words in the amount of about `N WORDS`.
+The article should include about 50 words organized in 5 passages.
 
-The words of the article should be organized in the amount of about `N PASSAGES`.
-
----
-
-## Passage format
-
-* The passages should be organized in an ordered list (`<ol>`).
-* There would be a line break (`<br>`) under each passage.
+Each passage would be a list item (`<li>`) inside an ordered list (`<ol>`).
 
 ## Notes
 
-* The article should not include Thai numbers, but rather, English numbers only.
+* Put white spaces between words as it would lower the chance for bugs when doing word count with Libre Office Writer.
+* If the article would include numbers, then the article should not include Thai numbers, but rather, English numbers only.
