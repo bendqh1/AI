@@ -22,4 +22,5 @@ REPEAT THE PATTERN AS MUCH AS NEEDED
 
 * Give me a Markdown output, not Markdown input.
 * Do not use any `<ul>` and `<li>` tag in the article.
+* Use only casual daily Thai without extremely formal Thai
 * If the article would include numbers, then the article should not include Thai numbers, but rather, English numbers only.
