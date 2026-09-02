@@ -1,5 +1,26 @@
 ## Installation
 
+Connect Alexa to a socket.
+
+### Phone 1
+
+1. Open Bluetooth and pair the devices.
+2. Install the Alexa app.
+3. Log in to Alexa with an Amazon account.
+4. Restart Alexa's installation.
+
+### Phone 2
+
+1. Start a Wi-Fi.
+2. Let Alexa connect to the Wi-Fi.
+
+### Back to phone 1
+
+1. Start configuration.
+2. Orange mode means setup mode.
+3. Purple mode indicates a Wi-Fi issue.
+4. If needed, tap the action button (`X`) for about five seconds to restart.
+
 ### Question
 
 I've bought an Amazon Echo Dot and I want to configure it without installing the Alexa app on my smartphone.
