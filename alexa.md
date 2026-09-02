@@ -51,6 +51,20 @@ To reset:
 
 > Alexa, speak at your default rate
 
+## Get the time
+
+* Alexa, what is the time now?
+* Alexa, what is the time in X now?
+
+## Get the forecast
+
+* Alexa, is it going to rain today?
+* Alexa, how's the weather this weekend?
+
+## Play music
+
+* Alexa, play the song X
+
 ## Set a reminder
 
 ```
